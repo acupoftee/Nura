@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		15AF04A61F89669300BC9F6D /* Neural++ */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Neural++"; sourceTree = BUILT_PRODUCTS_DIR; };
 		15AF04A91F89669300BC9F6D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		15AF04B01F8966CE00BC9F6D /* MathUtil.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MathUtil.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				15AF04A91F89669300BC9F6D /* main.cpp */,
+				15AF04B01F8966CE00BC9F6D /* MathUtil.h */,
 			);
 			path = "Neural++";
 			sourceTree = "<group>";
